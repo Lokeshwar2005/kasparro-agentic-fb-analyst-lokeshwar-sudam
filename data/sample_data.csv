@@ -1,0 +1,6 @@
+campaign_name,adset_name,date,spend,impressions,clicks,ctr,purchases,revenue,roas,creative_type,creative_message,audience_type,platform,country
+CmpA-Fall24,US-Int-LAL,2025-10-01,1000,100000,1500,0.015,20,5000,5.0,Image-A,"Fast shipping, 10% off",Lookalike,Facebook,US
+CmpA-Fall24,US-Int-LAL,2025-10-02,1200,110000,990,0.009,15,3900,3.25,Image-A,"Fast shipping, 10% off",Lookalike,Facebook,US
+CmpA-Fall24,US-Int-LAL,2025-10-03,1300,120000,960,0.008,12,3120,2.4,Image-A,"Fast shipping, 10% off",Lookalike,Facebook,US
+CmpB-Winter,EU-Retarget,2025-10-01,500,50000,800,0.016,10,1500,3.0,Video-B,"See product in action",Retargeting,Instagram,UK
+CmpB-Winter,EU-Retarget,2025-10-02,550,60000,480,0.008,12,1600,2.91,Video-B,"See product in action",Retargeting,Instagram,UK

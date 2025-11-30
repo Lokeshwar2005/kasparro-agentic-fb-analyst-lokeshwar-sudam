@@ -1,0 +1,18 @@
+llm:
+  model: "gpt-4-turbo"
+  temperature: 0.1
+  function_calling_llm: "gpt-4o" 
+
+data:
+  sample_path: "data/sample_data.csv"
+  full_path: "data/full_data.csv"
+  roas_threshold: 3.5
+  ctr_low_threshold: 0.008
+  
+paths:
+  reports: "reports"
+  logs: "logs"
+  
+mode: "sample" 
+seed: 42
+max_retries: 2
